@@ -1,0 +1,21 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A website to view weather situations in different regions.",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "author": "Daniël Smit",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "debug": "^4.1.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "morgan": "^1.9.1",
+    "request": "^2.88.0"
+  }
+}
